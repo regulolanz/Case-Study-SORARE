@@ -1,4 +1,4 @@
-![Sorare Logo](https://user-images.githubusercontent.com/90898649/133827250-1e95891d-0d0a-4c11-91b4-2e4c84f4a3a4.png)
+![Sorare Logo](sorare.png)
 
 # Sorare: Transforming Fantasy Football with Blockchain and NFTs
 
