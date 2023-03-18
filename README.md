@@ -1,4 +1,4 @@
-![Sorare Logo](https://assets.coingecko.com/coins/images/14666/large/sorare_logo.png?1619444397)
+![Sorare Logo](https://user-images.githubusercontent.com/90898649/133827250-1e95891d-0d0a-4c11-91b4-2e4c84f4a3a4.png)
 
 # Sorare: Transforming Fantasy Football with Blockchain and NFTs
 
@@ -61,3 +61,6 @@
 3. [Grand View Research - Fantasy Sports Market](https://www.grandviewresearch.com/industry-analysis/fantasy-sports-market)
 4. [Ethereum Official Website](https://ethereum.org/)
 5. [Reuters - French startup Sorare raises $680 mln to expand fantasy football platform](https://www.reuters.com/technology/french-startup-sorare-raises-680-mln-expand-fantasy-football-platform-2021-09-21/)
+
+
+[def]: https://assets.coingecko.com/coins/images/14666/large/sorare_logo.png?1619444397
