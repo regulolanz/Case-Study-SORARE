@@ -8,7 +8,8 @@
 3. [Technology and Business Model](#technology-and-business-model)
 4. [Industry Landscape](#industry-landscape)
 5. [Performance and Results](#performance-and-results)
-6. [Sources](#sources)
+6. [Recommendations](#recommendations)
+7. [Sources](#sources)
 
 ## Introduction
 - **Company**: Sorare
@@ -54,6 +55,14 @@
   - Card sales volume
   - Sports club partnerships
 - **Comparison**: Sorare leads in combining NFT and fantasy sports markets, providing a unique value proposition to users and sports clubs alike.
+
+## Recommendations
+- Expansion into other sports and markets
+- Collaboration with influencers and sports personalities
+- Enhance user experience and platform features
+- Analyzing sports industry trends and fan preferences
+- Assessing competitors' strategies and offerings
+- Evaluating the effectiveness of marketing campaigns and partnerships.
 
 ## Sources
 1. [Crunchbase - Sorare](https://www.crunchbase.com/organization/sorare)
